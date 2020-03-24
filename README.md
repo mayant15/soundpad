@@ -1,6 +1,8 @@
 # soundpad
 A little memey soundboard
 
+Play at mayant15.github.io/soundboard
+
 Icons by [Kenny](https://kenney.nl/assets/ui-pack)
 Sounds by [Pragya Patel](https://soundcloud.com/pragya_pat)
 
