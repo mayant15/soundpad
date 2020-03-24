@@ -1,0 +1,16 @@
+{
+"companyName": "ppsmol",
+"productName": "bhandpad",
+"productVersion": "2.0110011001110101",
+"dataUrl": "2020-03-24-20-15.data.unityweb",
+"wasmCodeUrl": "2020-03-24-20-15.wasm.code.unityweb",
+"wasmFrameworkUrl": "2020-03-24-20-15.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
